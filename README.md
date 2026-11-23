@@ -42,6 +42,10 @@ All original code and content in this repository is **All Rights Reserved** — 
 
 **The author is maskday (GitHub: Shy).** The jars' `authors` fields credit maskday and Mask (engineering collaboration) — both refer to the same author as this account.
 
+## Contact
+
+heiyimianju (at) gmail (dot) com
+
 ---
 
 # ExclusionForge（中文版）
@@ -87,6 +91,10 @@ All original code and content in this repository is **All Rights Reserved** — 
 本仓库所有原创代码与内容 **保留所有权利（All Rights Reserved）**——与 jar 内 `mods.toml` 的 license 声明一致。
 
 **作者 maskday（GitHub 账号 Shy）。** jar 内 authors 字段署名 maskday 与 Mask（工程协作署名），与本账号同属作者。
+
+## 联系
+
+heiyimianju (at) gmail (dot) com
 
 ---
 
