@@ -23,10 +23,10 @@ No mixed payloads: one jar never carries economy + medicine. Module ownership is
 
 ## Mod family
 
-| Mod | modId | Current | Positioning |
-|-----|-------|---------|-------------|
-| **ExclusionEconomy** (black-market economy) | `exclusioneconomy` | 0.2.0 | Physical-currency economy: black-market terminal blocks + five-tier placeholder prices (final values await the economy design doc) |
-| **StaminaSurge** (stamina surge) | `staminasurge` | 0.4.7 | Stamina system patch: MobEffect-pool driven + dedicated HUD feedback, referencing the Tarkov injector family |
+| Mod | modId | Positioning |
+|-----|-------|-------------|
+| **ExclusionEconomy** (black-market economy) | `exclusioneconomy` | Physical-currency economy: black-market terminal blocks + five-tier placeholder prices (final values await the economy design doc) |
+| **StaminaSurge** (stamina surge) | `staminasurge` | Stamina system patch: MobEffect-pool driven + dedicated HUD feedback, referencing the Tarkov injector family |
 
 > Naming protocol: the Creator decrees the Chinese name; the engineering side coins the English one (quality register + reference-system fit).
 
@@ -69,10 +69,10 @@ All original code and content in this repository is **All Rights Reserved** — 
 
 ## 模组家族
 
-| 模组 | modId | 当前版本 | 定位 |
-|------|-------|----------|------|
-| **ExclusionEconomy**（黑市经济） | `exclusioneconomy` | 0.2.0 | 实物货币制经济：黑市终端方块 + 五档占位价（终版数值待经济设计文档） |
-| **StaminaSurge**（体力涌泉） | `staminasurge` | 0.4.7 | 体力系统补丁：MobEffect 池驱动 + HUD 专属反馈，参照塔科夫针剂族 |
+| 模组 | modId | 定位 |
+|------|-------|------|
+| **ExclusionEconomy**（黑市经济） | `exclusioneconomy` | 实物货币制经济：黑市终端方块 + 五档占位价（终版数值待经济设计文档） |
+| **StaminaSurge**（体力涌泉） | `staminasurge` | 体力系统补丁：MobEffect 池驱动 + HUD 专属反馈，参照塔科夫针剂族 |
 
 > 命名协议：创造者拍中文名，工程侧起英文名（品质感 + 贴参照系气质）。
 
